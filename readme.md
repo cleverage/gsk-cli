@@ -1,6 +1,9 @@
 GSK
 ===============================================================================
 
+> **ATTENTION:** _Cet outils est encore très jeune (alpha), n'hésitez pas à
+  ouvrir une issue au moindre problème_
+
 L'outils **GSK** est un outil de scafolding qui permet d'initialiser rapidement
 un projet de site statique pour Clever Garden. Il automatise et simplifie
 l'instalation du [Starter Kit de Clever garden](https://github.com/cleverage/garden-starter-kit).
