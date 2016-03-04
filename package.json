@@ -2,6 +2,7 @@
   "name": "gsk",
   "version": "0.0.1",
   "description": "Scafolder pour les projets basés sur le Starter Kit de Clever Garden",
+  "repository": "cleverage/gsk-cli",
   "main": "gsk.js",
   "bin": {
     "gsk": "./gsk.js"
